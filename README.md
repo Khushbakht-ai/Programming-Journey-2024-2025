@@ -32,7 +32,7 @@ This repository documents my 8-month journey of learning C++ and Python. It incl
 
 ## 💡 Goal
 
-Build a solid programming foundation before diving into machine learning and artificial intelligence.
+Build a solid programming foundation before diving into machine learning and artificial intelligence. 
 
 ---
 
